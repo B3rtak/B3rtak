@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="110" viewBox="0 0 1280 110" role="img" aria-labelledby="title">
+  <title id="title">Dal codice al mondo di gioco. B3rtak / McExp.it</title>
+  <defs><linearGradient id="line"><stop stop-color="#72f4bf" stop-opacity="0"/><stop offset=".5" stop-color="#72f4bf"/><stop offset="1" stop-color="#72f4bf" stop-opacity="0"/></linearGradient></defs>
+  <rect x="1" y="1" width="1278" height="108" rx="16" fill="#0c151c" stroke="#24343b"/>
+  <path d="M40 1h1200" stroke="url(#line)"/>
+  <text x="40" y="50" font-family="'DejaVu Sans',sans-serif" font-size="22" font-weight="600" fill="#cfe2d9">Dal codice al mondo di gioco.</text>
+  <text x="40" y="78" font-family="'DejaVu Sans Mono',monospace" font-size="12" letter-spacing="1" fill="#829f93">B3RTAK / MCEXP.IT</text>
+  <path d="m1194 43-12 12 12 12m20-24 12 12-12 12m-8-30-6 36" fill="none" stroke="#72f4bf" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
